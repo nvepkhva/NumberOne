@@ -1,2 +1,2 @@
 # NumberOne
-საწყისი ფაილები
+# my files
